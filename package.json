@@ -1,0 +1,19 @@
+{
+  "name": "ata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-3.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush4web/Aviator-Training-Academy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush4web/Aviator-Training-Academy/issues"
+  },
+  "homepage": "https://github.com/Ayush4web/Aviator-Training-Academy#readme"
+}
