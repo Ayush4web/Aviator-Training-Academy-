@@ -3250,6 +3250,8 @@ Course category
   transition: all .4s ease;
   border-radius: 10px;
   position: relative;
+  height: 20rem;
+  padding-top: 5rem;
 }
 
 .single-course-category:after {

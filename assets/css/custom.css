@@ -15,3 +15,11 @@
 .em:hover{
     color: yellow;
 } */
+
+.img-fix{
+    height: 245px;
+}
+
+.map{
+    margin-bottom: 2rem;
+}
