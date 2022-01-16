@@ -23,3 +23,12 @@
 .map{
     margin-bottom: 2rem;
 }
+.love{
+    color: inherit;
+    
+}
+
+.love:hover{
+    color: white;
+  
+}
